@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&family=Titillium+Web:ital@1&display=swap");
+h1 {
+  text-align: center;
+  font-family: "Titillium Web", sans-serif;
+}
+ion-icon {
+  margin-left: 5px;
+}
+#banner {
+  margin:0 auto;
+  display:block;
+  height: 500px;
+}
+#logo {
+    width:50px;
+    height: 50px;
+    border-radius:50px;
+    text-align: center;
+    margin:0 auto;
+    display:block;
+}
+.mini-header {
+  font-size:20px;
+  font-family:'Poppins';
+  text-align: center;
+}
